@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AutonomousStore
+comment0.text=\r\n\ Store\ that\ ignores\ the\ requested\ location\ and\ selects\ its\ own\ slot.\r\n
+comment1.params=requestedLocation\ tenges\ roadStartX\ roadStartY\ visible\ roadLength\ existingStores
+comment1.target=AutonomousStore(int,\ int,\ int,\ int,\ boolean,\ int,\ java.util.List)
+comment2.params=requestedLocation\ roadLength\ existingStores
+comment2.target=int\ resolveLocation(int,\ int,\ java.util.List)
+numComments=3

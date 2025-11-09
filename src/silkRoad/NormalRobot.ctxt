@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NormalRobot
+comment0.text=\r\n\ Default\ robot\ keeping\ the\ cycle\ 1\ behaviour.\r\n
+comment1.params=initialLocation\ roadStartX\ roadStartY\ visible
+comment1.target=NormalRobot(int,\ int,\ int,\ boolean)
+numComments=2

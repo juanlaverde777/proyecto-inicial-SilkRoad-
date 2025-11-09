@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TenderRobot
+comment0.text=\r\n\ Robot\ that\ only\ takes\ half\ of\ the\ store\ revenue\ each\ visit.\r\n
+comment1.params=initialLocation\ roadStartX\ roadStartY\ visible
+comment1.target=TenderRobot(int,\ int,\ int,\ boolean)
+comment2.params=store\ available
+comment2.target=int\ desiredLootAmount(Store,\ int)
+numComments=3

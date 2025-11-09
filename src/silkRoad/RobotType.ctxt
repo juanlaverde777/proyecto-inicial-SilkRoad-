@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RobotType
+comment0.text=\r\n\ Enumerates\ supported\ robot\ variants.\r\n
+comment1.params=code
+comment1.target=RobotType(int)
+comment2.params=
+comment2.target=int\ getCode()
+comment3.params=code
+comment3.target=RobotType\ fromCode(int)
+numComments=4

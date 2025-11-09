@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SilkRoadContest
+comment1.params=days
+comment1.target=int[]\ solve(int[][])
+comment2.params=days\ slow
+comment2.target=void\ simulate(int[][],\ boolean)
+comment3.params=days
+comment3.target=int\ estimateLength(int[][])
+comment4.params=slow
+comment4.target=void\ pauseIfNeeded(boolean)
+numComments=5

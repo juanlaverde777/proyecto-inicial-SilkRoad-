@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FighterStore
+comment0.text=\r\n\ Store\ that\ only\ yields\ money\ to\ robots\ richer\ than\ itself.\r\n
+comment1.params=location\ tenges\ roadStartX\ roadStartY\ visible
+comment1.target=FighterStore(int,\ int,\ int,\ int,\ boolean)
+comment2.params=robot
+comment2.target=boolean\ canBeLootedBy(Robot)
+numComments=3

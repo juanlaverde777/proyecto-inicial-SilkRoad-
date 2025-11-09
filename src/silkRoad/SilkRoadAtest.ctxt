@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SilkRoadAtest
+comment0.text=\r\n\ Pruebas\ de\ aceptaci\u00F3n\ interactivas\ para\ demostrar\ las\ capacidades\ clave\ del\ proyecto.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=boolean\ escenarioAutonomousTender(java.util.Scanner)
+comment3.params=scanner
+comment3.target=boolean\ escenarioFighterNeverback(java.util.Scanner)
+comment4.params=scanner\ prompt
+comment4.target=boolean\ preguntarAceptacion(java.util.Scanner,\ java.lang.String)
+comment5.params=road\ location
+comment5.target=int\ obtenerTenges(SilkRoad,\ int)
+numComments=6
